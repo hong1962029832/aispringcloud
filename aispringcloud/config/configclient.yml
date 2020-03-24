@@ -1,0 +1,9 @@
+server:
+  prot: 8070
+eureka:
+  client:
+    serviceUrl:
+      defaultZone:
+spring:
+  application:
+    name: configclent
